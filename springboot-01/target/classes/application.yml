@@ -1,0 +1,17 @@
+# 语法形式 ： key： value
+#对空格的要求很严格
+
+person:
+  name: gtf
+  age: 3
+  happy: false
+  hello: hhh
+  birth: 2020/11/20
+  maps: {k1: v1,k2: v2}
+  lists:
+    - code
+    - music
+    - girl
+  dog:
+    name: wangcai
+    age: 3
