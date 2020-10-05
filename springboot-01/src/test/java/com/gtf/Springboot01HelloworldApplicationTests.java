@@ -1,6 +1,5 @@
 package com.gtf;
 
-import com.gtf.pojo.Dog;
 import com.gtf.pojo.Person;
 import org.junit.jupiter.api.Test;
 import org.springframework.beans.factory.annotation.Autowired;

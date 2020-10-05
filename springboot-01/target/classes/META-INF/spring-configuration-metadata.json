@@ -18,11 +18,6 @@
       "sourceType": "com.gtf.pojo.Person"
     },
     {
-      "name": "person.dog",
-      "type": "com.gtf.pojo.Dog",
-      "sourceType": "com.gtf.pojo.Person"
-    },
-    {
       "name": "person.happy",
       "type": "java.lang.Boolean",
       "sourceType": "com.gtf.pojo.Person"

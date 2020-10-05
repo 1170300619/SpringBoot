@@ -39,7 +39,6 @@ public class Person {
         this.birth = birth;
         this.maps = maps;
         this.lists = lists;
-        this.dog = dog;
     }
 
     public String getName() {
@@ -94,9 +93,6 @@ public class Person {
         return dog;
     }
 
-    public void setDog(Dog dog) {
-        this.dog = dog;
-    }
 
     @Override
     public String toString() {
